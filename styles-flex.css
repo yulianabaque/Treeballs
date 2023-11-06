@@ -1,0 +1,17 @@
+.flex-container{
+    background-color: #bc5efa;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.caixa1{
+    display: flex;
+    background-color: #36dfdf;
+
+}
+
+.caixa2{
+    
+}
